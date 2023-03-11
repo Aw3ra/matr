@@ -1,5 +1,5 @@
 # Matr Monorepo
-A collection of public projects supporting builders and creatives in the [Solana](https://solana.com/)
+A collection of public projects supporting builders and creatives on [Solana](https://solana.com/).
 
 ## Apps
 - The Terminal
