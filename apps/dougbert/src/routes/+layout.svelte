@@ -2,11 +2,11 @@
     import { onMount } from "svelte";
     import "../app.postcss";
     import AOS from "aos";
-import 'aos/dist/aos.css'; // You can also use <link> for styles
-// ..
-onMount(() => {
-    AOS.init();
-})
+    
+    import 'aos/dist/aos.css';  
+    onMount(() => {
+        AOS.init();
+    })
 </script>
 
 <style>

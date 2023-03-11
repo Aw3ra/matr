@@ -38,6 +38,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@types/aos": "^3.0.4",
     "aos": "^2.3.4"
   }
 }
