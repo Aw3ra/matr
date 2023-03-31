@@ -30,15 +30,16 @@
             </section>
             <div class="prose">
                 <h2 class="m-0 text-4xl mb-1">Dougbert</h2>
-                <p>Dougbert constantly streams Web3-related tweets and is aware of current tokens, NFT mints, influencers, hashtags, and whatever else is on the timeline. From his observations, he can generate unique tweets based on the information and market sentiment.</p>
-            </div>
+                <p>Dougbert is the ultimate in Twitter social media management. It can reply to followers, engage with the community and even auto follow, unfollow and block. It's the Twitter inten you wish you had.</p>
+            </div>  
             <div class="prose mt-5">
-                <h2 class="m-0 text-xl mb-1">Community</h2>
-                <p>Join The Terminal for access to Dougbert chat and other Matr World projects. We would love to hear any ideas and feedback.</p>
+                <h2 class="m-0 text-xl mb-1">Waitlist</h2>
+                <p>Join the waitlist today and get early access to Beta DougbertAI.</p>
                 <a
                     class="btn btn-primary"
-                    href="https://discord.gg/rQt2Y59pz7">Join Discord</a>
+                    href="https://forms.gle/pVfgF5qqTEMdbPaP6">Join the waitlist</a>
             </div>
+
         </div>
     </section>
 
