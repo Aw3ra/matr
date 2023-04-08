@@ -30,7 +30,7 @@
             </section>
             <div class="prose">
                 <h2 class="m-0 text-4xl mb-1">Dougbert</h2>
-                <p>Dougbert is the ultimate in Twitter social media management. It can reply to followers, engage with the community and even auto follow, unfollow and block. It's the Twitter inten you wish you had.</p>
+                <p>Dougbert is the ultimate in Twitter social media management. It can reply to followers, engage with the community and even auto follow, unfollow and block. It's the Twitter intern you wish you had.</p>
             </div>  
             <div class="prose mt-5">
                 <h2 class="m-0 text-xl mb-1">Waitlist</h2>
